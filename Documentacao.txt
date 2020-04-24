@@ -1,0 +1,12 @@
+
+	Documentação é importante pq nos lembra de onde veio e o que estavamos fazendo.
+
+Fonte: ReactJs 5
+Autor: Leonardo Recco
+Link: Video 1 - Requisição HTTP
+
+O que o programa faz: 
+	É um programa que cria uma pagina web, essa pagina deve pegar imagens e texto de uma API e mostra-los
+na tela.
+
+Foi concluído: Sim.
